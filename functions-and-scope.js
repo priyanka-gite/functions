@@ -40,7 +40,7 @@ let counter = 0;
            counter+=1;     }
          return counter;
 }
-const cumLaudeOne = cumLaude([8, 9, 4, 6, 10]);
+const cumLaudeOne = cumLaude([6, 4, 5]);
 console.log("cumLaudeOne: "+ cumLaudeOne);
 
 
